@@ -1,3 +1,3 @@
 Git rebase
 
-git branch master
+git branch rebase
